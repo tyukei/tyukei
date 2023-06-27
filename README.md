@@ -12,12 +12,16 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tyukei&rank_icon=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tyukei&rank_icon=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyukei&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyukei&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyukei&bg_color=00000000"/>
 </a>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tyukei)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github-user-contribution (1)](https://user-images.githubusercontent.com/70129567/231793045-4e57667d-f750-496d-8547-8b04e5cdb15d.svg)
 
